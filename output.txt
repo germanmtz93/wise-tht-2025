@@ -1,0 +1,10 @@
+1. Profile ID: 28824122
+2. Quote ID: 288e9c93-eeee-4645-8f90-f6a23f72ec62
+3. Amount the recipient will receive: 580.14 GBP
+4. Exchange Rate: 1.7237
+5. Total Fee: 3.61 SGD
+6. Delivery Estimates: July 29 2025 02:13:36 GMT+0000
+7. Recipient ID: 701395332
+8. Transfer ID: 55279299
+9. Transfer Status: incoming_payment_waiting
+All tasks completed successfully.
