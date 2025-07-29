@@ -34,8 +34,6 @@ const createQuote = async (profileId) => {
             sourceCurrency: "SGD",
             targetCurrency: "GBP",
             sourceAmount: 1000,
-            payIn: "BANK_TRANSFER",
-            payOut: "BANK_TRANSFER",
         };
 
         const response = await axios.post(url, body, config);
